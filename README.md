@@ -16,3 +16,7 @@ The project conclusions emphasize the importance of **balancing risk and stabili
 ## Getting Started
 To run the simulation, ensure you have Python 3.x installed and execute the `main.py` script:
 
+![10 Turns Graph](Figure_1.png)
+![200 Turns Graph](Figure2.png)
+
+
